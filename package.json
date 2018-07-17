@@ -1,0 +1,13 @@
+{
+  "name": "line-echo-bot",
+  "version": "0.0.0",
+  "description": "LINE Messaging API echo bot on AWS Lambda.",
+  "license": "MIT",
+  "dependencies": {
+    "@line/bot-sdk": "^6.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/"
+  }
+}
